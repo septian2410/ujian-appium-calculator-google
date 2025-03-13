@@ -15,10 +15,9 @@ Menguji otomatisasi Google Calculator menggunakan Appium. Pengujian mencakup val
 ![TOOLS](https://github.com/user-attachments/assets/d17dec82-b004-4ac2-8bb3-162415cc92e0)
 
 
-
 ## Showcase Application
 ------------------------
-![APLIKASI HADIR](https://github.com/user-attachments/assets/df221ff0-a51a-4f31-9ed1-9d232b218a7f)
+![Showcase Application(1)](https://github.com/user-attachments/assets/4cc02841-1268-4ddd-8519-46c0405b0520)
 
 
 ## Report appium + cucumber (Calculator Google)
@@ -29,15 +28,6 @@ Menguji otomatisasi Google Calculator menggunakan Appium. Pengujian mencakup val
 ## Compile 
 ------------------------
 ![compile ujian appium](https://github.com/user-attachments/assets/304a7899-3837-4f30-9011-27256e42a310)
-
-
-## Dokumentasi Lainnya
-------------------------
-
-
-## Video Demo Automation
-------------------------
-
 
 
 
