@@ -12,7 +12,8 @@ Menguji otomatisasi Google Calculator menggunakan Appium. Pengujian mencakup val
 
 ## Tools
 ------------------------
-###### ![TOOLS](https://github.com/user-attachments/assets/ead824de-6887-44f7-9551-1db5e31e5081)
+![TOOLS](https://github.com/user-attachments/assets/d17dec82-b004-4ac2-8bb3-162415cc92e0)
+
 
 
 ## Showcase Application
